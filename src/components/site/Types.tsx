@@ -26,6 +26,7 @@ export function Types() {
       <SectionTitle
         eyebrow="Tipos de Linha de Vida"
         title="Soluções completas em sistemas de proteção contra quedas"
+        subtitle="Somos especialistas em instalação de linha de vida para telhados, estruturas industriais, escadas e sistemas de ancoragem, desenvolvendo soluções seguras e adequadas às exigências da NR-35."
       />
       <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
         {items.map((it, i) => (

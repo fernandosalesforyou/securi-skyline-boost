@@ -53,7 +53,7 @@ export function Anchors() {
     <Section tone="gray">
       <SectionTitle
         eyebrow="Pontos de ancoragem"
-        title="Projeto, instalação e inspeção de ancoragem"
+        title="Projeto, Instalação e Inspeção de Linha de Vida e Ancoragem"
         subtitle="Projetamos, instalamos e inspecionamos pontos de ancoragem conforme normas técnicas, garantindo segurança estrutural e proteção total para trabalhos em altura."
       />
       <div className="mt-14 grid gap-6 md:grid-cols-3">

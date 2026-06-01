@@ -14,7 +14,7 @@ export function ProjectPhase() {
       <SectionTitle
         eyebrow="Fase de projeto"
         title="Etapas do desenvolvimento técnico"
-        subtitle="Antes da execução, estruturamos todo o projeto para garantir precisão, segurança e eficiência."
+        subtitle="Antes da execução, estruturamos todo o projeto para garantir precisão, segurança e eficiência. Cada instalação de linha de vida é desenvolvida conforme as características da estrutura e os riscos identificados no local."
       />
       <ol className="relative mt-14 mx-auto max-w-3xl">
         <span aria-hidden className="absolute left-5 top-2 bottom-2 w-px bg-accent/40 sm:left-1/2 sm:-translate-x-1/2" />

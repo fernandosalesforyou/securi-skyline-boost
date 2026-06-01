@@ -22,7 +22,7 @@ export function Inspections() {
       <SectionTitle
         eyebrow="Inspeções Linha de Vida"
         title="Inspeções técnicas especializadas"
-        subtitle="Realizamos inspeções completas para garantir que os sistemas estejam seguros, funcionando corretamente e em conformidade com as normas vigentes."
+        subtitle="Realizamos inspeções completas para garantir que os sistemas estejam seguros, funcionando corretamente e em conformidade com as normas vigentes. Além da instalação de linha de vida, realizamos inspeções periódicas para garantir a integridade dos sistemas e o atendimento às exigências legais."
       />
       <div className="mt-14 grid gap-6 md:grid-cols-3">
         {cards.map((c, i) => (

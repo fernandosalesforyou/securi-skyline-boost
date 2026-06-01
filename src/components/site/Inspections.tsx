@@ -22,7 +22,7 @@ export function Inspections() {
       <SectionTitle
         eyebrow="Inspeções Linha de Vida"
         title="Inspeções técnicas especializadas"
-        subtitle="Realizamos inspeções completas para garantir que os sistemas estejam seguros, funcionando corretamente e em conformidade com as normas vigentes."
+        subtitle="Realizamos inspeções completas para garantir que os sistemas estejam seguros, funcionando corretamente e em conformidade com as normas vigentes. Além da instalação de linha de vida, realizamos inspeções periódicas para garantir a integridade dos sistemas e o atendimento às exigências legais."
       />
       <div className="mt-14 grid gap-6 md:grid-cols-3">
         {cards.map((c, i) => (
@@ -53,7 +53,7 @@ export function Anchors() {
     <Section tone="gray">
       <SectionTitle
         eyebrow="Pontos de ancoragem"
-        title="Projeto, instalação e inspeção de ancoragem"
+        title="Projeto, Instalação e Inspeção de Linha de Vida e Ancoragem"
         subtitle="Projetamos, instalamos e inspecionamos pontos de ancoragem conforme normas técnicas, garantindo segurança estrutural e proteção total para trabalhos em altura."
       />
       <div className="mt-14 grid gap-6 md:grid-cols-3">
@@ -99,7 +99,7 @@ export function NR35() {
           ))}
         </ul>
         <p className="mt-8 text-base text-muted-foreground">
-          A falta de adequação pode gerar multas, interdições e riscos graves à sua operação.
+          A instalação de linha de vida é uma das principais medidas utilizadas para proteção contra quedas em atividades realizadas em altura, contribuindo para o cumprimento da NR-35. A falta de adequação pode gerar multas, interdições e riscos graves à sua operação.
         </p>
         <div className="mt-8 text-center">
           <CtaButton size="lg" />

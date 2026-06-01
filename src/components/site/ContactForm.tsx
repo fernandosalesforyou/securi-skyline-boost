@@ -8,7 +8,7 @@ export function ContactForm() {
         <SectionTitle
           eyebrow="Formulário"
           title="Fale com um especialista"
-          subtitle="Receba um diagnóstico técnico para sua empresa."
+          subtitle="Receba um diagnóstico técnico para sua empresa. Solicite um orçamento para instalação de linha de vida com uma equipe especializada e receba orientação técnica para a sua empresa."
         />
         <div className="mt-10">
           <CtaButton size="lg">Quero solicitar um orçamento</CtaButton>

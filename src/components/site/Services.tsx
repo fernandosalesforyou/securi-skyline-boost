@@ -32,7 +32,7 @@ export function Services() {
       <SectionTitle
         eyebrow="Serviços"
         title="Solução completa do projeto à execução"
-        subtitle="Oferecemos um conjunto completo de serviços técnicos para garantir segurança, conformidade e eficiência."
+        subtitle="Oferecemos um conjunto completo de serviços técnicos para garantir segurança, conformidade e eficiência. Nossa equipe realiza desde o projeto até a instalação de linha de vida, garantindo segurança, documentação técnica e conformidade com as normas vigentes."
       />
       <ul className="mt-16 mx-auto grid gap-5 sm:grid-cols-2 lg:grid-cols-3 max-w-6xl">
         {services.map((s) => (

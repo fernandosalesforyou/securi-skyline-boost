@@ -99,7 +99,7 @@ export function NR35() {
           ))}
         </ul>
         <p className="mt-8 text-base text-muted-foreground">
-          A falta de adequação pode gerar multas, interdições e riscos graves à sua operação.
+          A instalação de linha de vida é uma das principais medidas utilizadas para proteção contra quedas em atividades realizadas em altura, contribuindo para o cumprimento da NR-35. A falta de adequação pode gerar multas, interdições e riscos graves à sua operação.
         </p>
         <div className="mt-8 text-center">
           <CtaButton size="lg" />

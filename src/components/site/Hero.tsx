@@ -19,10 +19,13 @@ export function Hero() {
             Engenhar+ Soluções
           </p>
           <h1 className="mt-5 text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight text-primary-foreground">
-            Linha de Vida e Sistemas de Proteção Contra Quedas
+            Instalação de Linha de Vida
           </h1>
+          <p className="mt-2 text-lg font-semibold text-accent">
+            Equipe Especializada NR-35
+          </p>
           <p className="mt-5 text-lg text-primary-foreground/85 max-w-2xl">
-            Projeto, instalação e inspeção de sistemas de segurança para trabalho em altura, garantindo conformidade com normas e proteção total para sua equipe.
+            Serviço completo de instalação de linha de vida para trabalho em altura com total segurança, conformidade normativa e execução especializada para empresas.
           </p>
 
           <ul className="mt-8 space-y-3">
@@ -41,6 +44,10 @@ export function Hero() {
           <div className="mt-9">
             <CtaButton size="lg" />
           </div>
+
+          <p className="mt-4 text-sm text-primary-foreground/70 max-w-2xl">
+            Atuamos exclusivamente com projetos, inspeção e instalação. Não comercializamos peças, EPIs ou equipamentos avulsos.
+          </p>
 
           <p className="mt-8 text-sm text-primary-foreground/70">
             Referência no RS • Atendimento nacional • Projetos personalizados
